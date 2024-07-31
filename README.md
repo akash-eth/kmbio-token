@@ -29,7 +29,9 @@ npx hardhat test
 #### Deployment
 Create a .env file in the root directory and add the following variables
 >`PRIVATE_KEY_ADMIN = ""`
->``
+>`SEPOLIA_TESTNET_RPC_URL=""`
+>`ADMIN_WALLET_PRIVATE_KEY=""`
+>`MAINNET_RPC_URL=""`
 
 Supported networks for deployment
 -   localhost
